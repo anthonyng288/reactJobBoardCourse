@@ -5,18 +5,12 @@ import JobListings from './components/JobListings'
 
 const App = () => {
   // 56:27
-  //A Change
-  //Another Change
   return (
     <>
       <Navbar />
       <Hero/>
       <HomeCards/>
       <JobListings/>
-
-    
-
-   
     
 
     <section className="m-auto max-w-lg my-10 px-6">
